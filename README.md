@@ -7,7 +7,7 @@ The notebook CROSS-assumptions-v2022-09.ipynb is the jupyter notebook with the d
 
 ## Copyright and license
 
-&copy; 2021-2023 Energy Science Center, ETH Zürich, Adriana Marcucci
+&copy; 2021-2023 ETH Zurich, Energy Science Center, Adriana Marcucci
 
 This code was developed by the SWEET CoSI consortium, which is sponsored by the Swiss Federal Office of Energy’s SWEET programme.
 
